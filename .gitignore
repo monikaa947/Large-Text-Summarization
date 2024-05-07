@@ -3,3 +3,5 @@ largeTextSummarizer.egg-info
 artifacts
 logs
 research
+textkey.pem
+texts_accessKeys.csv
