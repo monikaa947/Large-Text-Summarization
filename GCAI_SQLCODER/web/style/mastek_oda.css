@@ -1,0 +1,9 @@
+.oda-chat-header{
+    --color-header-background: transparent;
+    --color-header-text: #ffffff;
+    background-image: linear-gradient(360deg, #5ecc62 0%, #2cc2c4 100%);
+}
+
+.oda-chat-button{
+    --color-launch-icon-background: transparent;
+}
